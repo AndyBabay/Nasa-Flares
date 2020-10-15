@@ -1,3 +1,5 @@
+Copyright © 2020 Andy Babay
+
 # Step 1
 #HOW CODE WORKS
 #RUN EACH STEP ONE BY ONE AND SEE OUTPUT AFTER
